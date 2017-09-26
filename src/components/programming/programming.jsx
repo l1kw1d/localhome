@@ -38,11 +38,11 @@ class ProgrammingComponent extends Component {
                                         <ul className="no-top-padding">
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">JavaScript</span>
+                                            <span className="html-2">HTML</span>
                                             &lt;/<span className="html-1">li</span>&gt;</li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Node.js</span>
+                                            <span className="html-2">CSS</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
@@ -52,17 +52,17 @@ class ProgrammingComponent extends Component {
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Angular 2</span>
+                                            <span className="html-2">SQL</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Mocha</span>
+                                            <span className="html-2">PHP</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">Webpack, Babel</span>
+                                            <span className="html-2">Python</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
@@ -77,7 +77,7 @@ class ProgrammingComponent extends Component {
                                           </li>
                                           <li>
                                             &lt;<span className="html-1">li</span>&gt;
-                                            <span className="html-2">LESS, SASS</span>
+                                            <span className="html-2">BASH</span>
                                             &lt;/<span className="html-1">li</span>&gt;
                                           </li>
                                           <li>
@@ -103,3 +103,4 @@ class ProgrammingComponent extends Component {
 }
 
 export default ProgrammingComponent;
+
