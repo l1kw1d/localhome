@@ -5,7 +5,7 @@
 
 # personal-portfolio
 
-[Demo](https://salomonelli.github.io/personal-portfolio/)
+[Demo](https://l1kw1d.github.io/gh-home/)
 
 This portfolio is made with [React](https://github.com/facebook/react), [Material UI](https://github.com/callemall/material-ui) and lots of love.
 Although it is my personal portfolio, feel free to fork and have fun with it.
@@ -22,5 +22,4 @@ Although it is my personal portfolio, feel free to fork and have fun with it.
 2. Favicon generated with [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
 =======
 # localhome
-My little playground
->>>>>>> ac7f25356af0ff6f6e01ae0c24fe94f798b120ea
+
