@@ -29,7 +29,7 @@ class FooterComponent extends Component {
             Facebook
           </a>
            /
-          <a target="_blank" href="https://www.quentronic.com">
+          <a target="_blank" href="https://bunkers.co">
             Hosting
           </a>
         </div>
